@@ -1,0 +1,41 @@
+
+#banner2{
+    float:right;
+    margin: -110px 20px 50px 60px;
+}
+.menu
+{
+    background-color: aquamarine;
+    margin: -10px 10px 3px 6px;
+    font-size: large;
+
+}
+#main 
+{
+    margin: 21px 646px 21px 646px;
+}
+#main 
+li{
+    
+    display:inline;
+    padding: 20px;
+}
+#leftmenu{
+    margin: 10px 1200px 100px 10px;
+    background-color: rgb(209, 30, 185);
+}
+#rightmenu{
+    float: right;
+    margin: -160px 10px 10px 10px;
+}
+#mainbody{
+    text-align: center;
+    margin:-170px 350px 40px 140px;
+
+
+}
+#footer{
+    background-color: brown;
+    margin: 130px 10px 10px 10px;
+    text-align: center;
+}
